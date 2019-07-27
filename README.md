@@ -1,5 +1,3 @@
-# java-tech-test
-
 To build the project and run the tests, execute the following on the command-line from the project root dir
 
 ```
